@@ -46,5 +46,6 @@ public class Main {
             again = sc.nextLine();
         }
         System.out.println("Thank you for playing!");
+        sc.close();
     }
 }
